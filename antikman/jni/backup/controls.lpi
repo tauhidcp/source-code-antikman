@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="12"/>
+    <PathDelim Value="\"/>
+    <General>
+      <Flags>
+        <MainUnitHasCreateFormStatements Value="False"/>
+        <MainUnitHasTitleStatement Value="False"/>
+        <MainUnitHasScaledStatement Value="False"/>
+        <LRSInOutputDirectory Value="False"/>
+      </Flags>
+      <SessionStorage Value="InProjectDir"/>
+      <Title Value="controls"/>
+      <UseAppBundle Value="False"/>
+      <ResourceType Value="res"/>
+    </General>
+    <CustomData Count="14">
+      <Item0 Name="BuildSystem" Value="Gradle"/>
+      <Item1 Name="KeepMyBuildGradleWhenReopen" Value="YES"/>
+      <Item2 Name="LAMW" Value="GUI"/>
+      <Item3 Name="LamwVersion" Value="0.8.6.4"/>
+      <Item4 Name="MinSdk" Value="21"/>
+      <Item5 Name="NdkApi" Value="android-22"/>
+      <Item6 Name="NdkPath" Value="D:\Master\Android\android-ndk-r22b\"/>
+      <Item7 Name="Package" Value="id.my.tauhidslab.antikman.antikman"/>
+      <Item8 Name="SdkPath" Value="D:\Master\Android\Sdk\"/>
+      <Item9 Name="StartModule" Value="MLogin"/>
+      <Item10 Name="Support" Value="TRUE"/>
+      <Item11 Name="TargetSdk" Value="33"/>
+      <Item12 Name="Theme" Value="AppCompat.Light.NoActionBar"/>
+      <Item13 Name="TryKotlin" Value="FALSE"/>
+    </CustomData>
+    <BuildModes>
+      <Item Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+      <UseFileFilters Value="True"/>
+    </PublishOptions>
+    <RunParams>
+      <FormatVersion Value="2"/>
+    </RunParams>
+    <RequiredPackages>
+      <Item>
+        <PackageName Value="laz_synapse"/>
+      </Item>
+      <Item>
+        <PackageName Value="tfpandroidbridge_pack"/>
+      </Item>
+    </RequiredPackages>
+    <Units>
+      <Unit>
+        <Filename Value="controls.lpr"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ulogin.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MLogin"/>
+        <HasResources Value="True"/>
+        <CustomData Count="2">
+          <Item0 Name="fclControls"/>
+          <Item1 Name="jControls" Value="jButton;jEditText;jForm;jImageView;jPanel;jTextView"/>
+        </CustomData>
+      </Unit>
+      <Unit>
+        <Filename Value="umain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MMain"/>
+        <HasResources Value="True"/>
+        <CustomData Count="2">
+          <Item0 Name="fclControls"/>
+          <Item1 Name="jControls" Value="jForm;jImageView;jPanel;jsDrawerLayout;jsNavigationView;jsToolbar"/>
+        </CustomData>
+      </Unit>
+      <Unit>
+        <Filename Value="udatauser.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MDataUser"/>
+        <HasResources Value="True"/>
+        <CustomData Count="2">
+          <Item0 Name="fclControls"/>
+          <Item1 Name="jControls" Value="jButton;jForm;jListView;jPanel;jTextView"/>
+        </CustomData>
+      </Unit>
+      <Unit>
+        <Filename Value="uuseractive.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MUserActive"/>
+        <HasResources Value="True"/>
+        <CustomData Count="2">
+          <Item0 Name="fclControls"/>
+          <Item1 Name="jControls" Value="jForm;jListView;jPanel"/>
+        </CustomData>
+      </Unit>
+      <Unit>
+        <Filename Value="uadduser.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MAddUser"/>
+        <HasResources Value="True"/>
+        <CustomData Count="2">
+          <Item0 Name="fclControls"/>
+          <Item1 Name="jControls" Value="jButton;jEditText;jForm;jPanel;jSpinner;jTextView"/>
+        </CustomData>
+      </Unit>
+      <Unit>
+        <Filename Value="ugenerateuser.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MGenerateUser"/>
+        <HasResources Value="True"/>
+        <CustomData Count="2">
+          <Item0 Name="fclControls"/>
+          <Item1 Name="jControls" Value="jButton;jEditText;jForm;jPanel;jSpinner;jTextView"/>
+        </CustomData>
+      </Unit>
+      <Unit>
+        <Filename Value="udataprofile.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MDataProfile"/>
+        <HasResources Value="True"/>
+        <CustomData Count="2">
+          <Item0 Name="fclControls"/>
+          <Item1 Name="jControls" Value="jButton;jForm;jListView;jPanel;jTextView"/>
+        </CustomData>
+      </Unit>
+      <Unit>
+        <Filename Value="uaddprofile.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MAddProfile"/>
+        <HasResources Value="True"/>
+        <CustomData Count="2">
+          <Item0 Name="fclControls"/>
+          <Item1 Name="jControls" Value="jButton;jEditText;jForm;jPanel;jTextView"/>
+        </CustomData>
+      </Unit>
+      <Unit>
+        <Filename Value="uexportuser.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MExportUser"/>
+        <HasResources Value="True"/>
+        <CustomData Count="2">
+          <Item0 Name="fclControls"/>
+          <Item1 Name="jControls" Value="jButton;jForm;jIntentManager;jPanel;jTextView"/>
+        </CustomData>
+      </Unit>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <Target>
+      <Filename Value="..\libs\arm64-v8a\libcontrols"/>
+    </Target>
+    <SearchPaths>
+      <Libraries Value="D:\Master\Android\android-ndk-r22b\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\lib\aarch64-linux-android\22\;D:\Master\Android\android-ndk-r22b\toolchains\aarch64-linux-android-4.9\prebuilt\windows-x86_64\lib\gcc\aarch64-linux-android\4.9.x\"/>
+      <OtherUnitFiles Value="$(ProjOutDir)"/>
+      <UnitOutputDirectory Value="..\obj\controls"/>
+    </SearchPaths>
+    <Parsing>
+      <SyntaxOptions>
+        <SyntaxMode Value="Delphi"/>
+        <CStyleMacros Value="True"/>
+      </SyntaxOptions>
+    </Parsing>
+    <CodeGeneration>
+      <SmartLinkUnit Value="True"/>
+      <TargetCPU Value="aarch64"/>
+      <TargetOS Value="android"/>
+      <Optimizations>
+        <OptimizationLevel Value="3"/>
+      </Optimizations>
+      <SmallerCode Value="True"/>
+    </CodeGeneration>
+    <Linking>
+      <Debugging>
+        <GenerateDebugInfo Value="False"/>
+        <StripSymbols Value="True"/>
+      </Debugging>
+      <LinkSmart Value="True"/>
+      <Options>
+        <ExecutableType Value="Library"/>
+      </Options>
+    </Linking>
+    <Other>
+      <CustomOptions Value="-Xd -XPaarch64-linux-android- -FDD:\Master\Android\android-ndk-r22b\toolchains\aarch64-linux-android-4.9\prebuilt\windows-x86_64\bin"/>
+      <ExecuteBefore>
+        <Command Value="before_build.bat"/>
+      </ExecuteBefore>
+      <ExecuteAfter>
+        <Command Value="after_build.bat"/>
+      </ExecuteAfter>
+    </Other>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions>
+      <Item>
+        <Name Value="EAbort"/>
+      </Item>
+      <Item>
+        <Name Value="ECodetoolError"/>
+      </Item>
+      <Item>
+        <Name Value="EFOpenError"/>
+      </Item>
+    </Exceptions>
+  </Debugging>
+</CONFIG>
