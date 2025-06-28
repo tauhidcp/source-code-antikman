@@ -1,5 +1,9 @@
 # Source Code AnTikMan
-Source Code Aplikasi Android Mikrotik Hotspot User Manajemen (AnTikMan)
+Source Code Aplikasi Android Mikrotik Hotspot User Manajemen (AnTikMan) Menggunakan Lazarus dan Free Pascal. Aplikasi ini masih sederhana dan memiliki kemampuan sbb:
+- Menampilkan, menambah, mengedit dan menghapus user hotspot mikrotik
+- Menampilkan, menambah, mengedit dan menghapus user profile hotspot mikrotik
+- Generate User Hotspot secara acak (random)
+- Mencetak User Hotspot ke dalam file PDF dan HTML
 
 ## Requirement
 - Lazarus IDE 3.6 + FPC 3.2.2 + Lazarus Android Module Wizard (LAMW) 0.8.6.4
