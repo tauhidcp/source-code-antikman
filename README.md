@@ -22,5 +22,8 @@ Source Code Aplikasi Android Mikrotik Hotspot User Manajemen (AnTikMan) Mengguna
 - Synapse (https://github.com/geby/synapse)
 - Delphi RouterOS API (https://github.com/Chupaka/Delphi-RouterOS-API)
 
+## Note
+**Nonaktifkan firewall agar koneksi dari Android tidak diblok oleh Windows**
+
 ## More Info
 http://www.tauhidslab.my.id/2025/06/aplikasi-android-mikrotik-hotspot-user.html
