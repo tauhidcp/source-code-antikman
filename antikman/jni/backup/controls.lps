@@ -12,7 +12,7 @@
         <WindowIndex Value="-1"/>
         <TopLine Value="-1"/>
         <CursorPos X="-1" Y="-1"/>
-        <UsageCount Value="49"/>
+        <UsageCount Value="50"/>
         <DefaultSyntaxHighlighter Value="Delphi"/>
       </Unit>
       <Unit>
@@ -24,10 +24,9 @@
           <Item0 Name="fclControls"/>
           <Item1 Name="jControls" Value="jButton;jEditText;jForm;jImageView;jPanel;jTextView"/>
         </CustomData>
-        <IsVisibleTab Value="True"/>
-        <TopLine Value="87"/>
-        <CursorPos X="22" Y="86"/>
-        <UsageCount Value="49"/>
+        <TopLine Value="85"/>
+        <CursorPos X="54" Y="97"/>
+        <UsageCount Value="50"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
         <DefaultSyntaxHighlighter Value="Delphi"/>
@@ -43,7 +42,7 @@
         </CustomData>
         <EditorIndex Value="1"/>
         <CursorPos X="37" Y="118"/>
-        <UsageCount Value="49"/>
+        <UsageCount Value="50"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
         <DefaultSyntaxHighlighter Value="Delphi"/>
@@ -59,7 +58,7 @@
         </CustomData>
         <EditorIndex Value="-1"/>
         <CursorPos Y="107"/>
-        <UsageCount Value="42"/>
+        <UsageCount Value="43"/>
         <DefaultSyntaxHighlighter Value="Delphi"/>
       </Unit>
       <Unit>
@@ -74,7 +73,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="28"/>
         <CursorPos X="76" Y="49"/>
-        <UsageCount Value="42"/>
+        <UsageCount Value="43"/>
         <DefaultSyntaxHighlighter Value="Delphi"/>
       </Unit>
       <Unit>
@@ -88,7 +87,7 @@
         </CustomData>
         <EditorIndex Value="-1"/>
         <CursorPos X="6" Y="122"/>
-        <UsageCount Value="42"/>
+        <UsageCount Value="43"/>
         <DefaultSyntaxHighlighter Value="Delphi"/>
       </Unit>
       <Unit>
@@ -100,10 +99,11 @@
           <Item0 Name="fclControls"/>
           <Item1 Name="jControls" Value="jButton;jEditText;jForm;jPanel;jSpinner;jTextView"/>
         </CustomData>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="2"/>
-        <TopLine Value="141"/>
-        <CursorPos X="19" Y="127"/>
-        <UsageCount Value="42"/>
+        <TopLine Value="121"/>
+        <CursorPos X="13" Y="127"/>
+        <UsageCount Value="43"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
         <DefaultSyntaxHighlighter Value="Delphi"/>
@@ -120,7 +120,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="129"/>
         <CursorPos X="18" Y="111"/>
-        <UsageCount Value="42"/>
+        <UsageCount Value="43"/>
         <DefaultSyntaxHighlighter Value="Delphi"/>
       </Unit>
       <Unit>
@@ -135,7 +135,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="19"/>
         <CursorPos X="68" Y="86"/>
-        <UsageCount Value="42"/>
+        <UsageCount Value="43"/>
         <DefaultSyntaxHighlighter Value="Delphi"/>
       </Unit>
       <Unit>
@@ -150,7 +150,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="124"/>
         <CursorPos X="59" Y="135"/>
-        <UsageCount Value="42"/>
+        <UsageCount Value="43"/>
         <DefaultSyntaxHighlighter Value="Delphi"/>
       </Unit>
       <Unit>
@@ -177,7 +177,7 @@
         <DefaultSyntaxHighlighter Value="Delphi"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="18">
+    <JumpHistory HistoryIndex="20">
       <Position>
         <Filename Value="ugenerateuser.pas"/>
         <Caret Line="11" Column="66"/>
@@ -253,6 +253,14 @@
       <Position>
         <Filename Value="ugenerateuser.pas"/>
         <Caret Line="132" Column="50" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="ugenerateuser.pas"/>
+        <Caret Line="128" Column="17" TopLine="125"/>
+      </Position>
+      <Position>
+        <Filename Value="ugenerateuser.pas"/>
+        <Caret Line="127" Column="17" TopLine="124"/>
       </Position>
     </JumpHistory>
     <RunParams>

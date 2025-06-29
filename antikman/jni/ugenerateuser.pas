@@ -91,7 +91,6 @@ var
 begin
   if not (EJumlah.Text='') or not (EKet.Text='') then
   begin
-
        for j := 0 to StrToInt(EJumlah.Text) do
         begin
   // Pecah Perintah Kedalam Array

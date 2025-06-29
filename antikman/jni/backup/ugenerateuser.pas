@@ -91,7 +91,7 @@ var
 begin
   if not (EJumlah.Text='') or not (EKet.Text='') then
   begin
-
+       DialogProgress1.Show('Generate User','Please Wait...');
        for j := 0 to StrToInt(EJumlah.Text) do
         begin
   // Pecah Perintah Kedalam Array
@@ -123,13 +123,10 @@ begin
             Exit;
           end;
         // Cek Apakah ada Error
-        if MMain.ROS.LastError <> '' then ShowMessage('ERROR : ' + MMain.ROS.LastError)
-        //else
-        //  begin
-         // ShowMessage('GENERATE User Hotspot Berhasil!');
-         // end;
-
+        if MMain.ROS.LastError <> '' then ShowMessage('ERROR : ' + MMain.ROS.LastError);
+        Sleep(1000);
         end;
+       DialogProgress1.Close;
   ShowMessage('GENERATE '+EJumlah.Text+' User Hotspot Berhasil!');
   end else
       ShowMessage('Jangan Kosongkan Inputan!');
