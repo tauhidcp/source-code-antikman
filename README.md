@@ -7,7 +7,7 @@ Source Code Aplikasi Android Mikrotik Hotspot User Manajemen (AnTikMan) Mengguna
 
 ## Requirement
 - Windows 11 64
-- **Lazarus 3.6 + Free Pascal (FPC) 3.2.2 + Lazaru Android Module Wizard (LAMW) 0.8.6.4** (dipasang menggunakan tools **fpcupdeluxe**)
+- **Lazarus 3.6 + Free Pascal (FPC) 3.2.2 + Lazarus Android Module Wizard (LAMW) 0.8.6.4** (dipasang menggunakan tools **fpcupdeluxe**)
 - Apache-ant-1.10.14
 - Gradle 8.5.0
 - Java 21 (Zulu), set JAVA_HOME pada saat instalasi
