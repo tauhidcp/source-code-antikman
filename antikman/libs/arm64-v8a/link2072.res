@@ -1,0 +1,427 @@
+SEARCH_DIR(D:\Master\Android\android-ndk-r22b\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\lib\aarch64-linux-android\22\)
+SEARCH_DIR(D:\Master\Android\android-ndk-r22b\toolchains\aarch64-linux-android-4.9\prebuilt\windows-x86_64\lib\gcc\aarch64-linux-android\4.9.x\)
+SEARCH_DIR(C:\fpcupdeluxe\cross\lib\aarch64-android\)
+SEARCH_DIR(D:\source-code-antikman\antikman\obj\controls\)
+SEARCH_DIR(C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\)
+SEARCH_DIR(C:\fpcupdeluxe\lazarus\lcl\units\aarch64-android\)
+SEARCH_DIR(C:\fpcupdeluxe\lazarus\components\freetype\lib\aarch64-android\)
+SEARCH_DIR(.\synapse-master\lib\aarch64-android\)
+SEARCH_DIR(C:\fpcupdeluxe\lazarus\components\lazutils\lib\aarch64-android\)
+SEARCH_DIR(C:\fpcupdeluxe\lazarus\packager\units\aarch64-android\)
+SEARCH_DIR(.\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\httpd22\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\rtl\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\zlib\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\webidl\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\vcl-compat\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\unzip\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\tplylib\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\tcl\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\symbolic\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\sqlite\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\rtl-unicode\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\rtl-objpas\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\rtl-generics\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\rtl-extra\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\rtl-console\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\regexpr\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\pthreads\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\postgres\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\pcap\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\paszlib\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\pastojs\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\oracle\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\openssl\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\odbc\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\numlib\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\mysql\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\libtar\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\libpng\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\libmicrohttpd\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\libmagic\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\libgd\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\libenet\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\jni\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\imagemagick\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\ibase\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\httpd24\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\hermes\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\hash\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\gnutls\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\gdbm\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\fppkg\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\fpmkunit\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\fftw\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-xml\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-web\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-stl\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-sound\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-sdo\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-res\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-registry\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-process\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-pdf\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-passrc\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-net\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-json\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-js\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-image\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-fpcunit\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-extra\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-db\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-base\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-async\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\fastcgi\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\dblib\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\chm\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\bzip2\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\units\aarch64-android\)
+SEARCH_DIR(C:\fpcupdeluxe\fpc\bin\x86_64-win64\)
+VERSION
+{
+  {
+    global:
+      JNI_OnLoad;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnWidgeItemLostFocus;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnUp;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnTouch;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnSpinnerItemSelected;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnSearch;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnRunOnUiThread;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnPinchZoomGestureDetected;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnNext;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnLostFocus;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnLongClick;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnListViewScrollStateChanged;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnListViewLongClickCaptionItem;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnListViewDrawItemWidgetTextColor;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnListViewDrawItemWidgetText;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnListViewDrawItemWidgetImage;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnListViewDrawItemCustomFont;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnListViewDrawItemCaptionColor;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnListViewDrawItemBitmap;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnListViewDrawItemBackgroundColor;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnLayouting;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnImageViewPopupItemSelected;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnGo;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnFocus;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnFlingGestureDetected;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnEnter;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnDraw;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnDown;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnDoubleClick;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnDone;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnClose;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnClickWidgetItem;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnClickNavigationViewItem;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnClickItemTextRight;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnClickItemTextLeft;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnClickItemTextCenter;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnClickImageItem;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnClickGeneric;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnClickCaptionItem;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnClick;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnChanged;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnChange;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnBeforeDispatchDraw;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnBackPressed;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pOnAfterDispatchDraw;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pEditTextOnActionIconTouchUp;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pEditTextOnActionIconTouchDown;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pAppOnViewClick;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pAppOnUpdateLayout;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pAppOnStop;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pAppOnStart;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pAppOnSpecialKeyDown;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pAppOnScreenStyle;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pAppOnRotate;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pAppOnResume;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pAppOnRestart;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pAppOnRequestPermissionResult;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pAppOnPrepareOptionsMenuItem;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pAppOnPrepareOptionsMenu;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pAppOnPause;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pAppOnNewIntent;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pAppOnListItemClick;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pAppOnDestroy;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pAppOnCreateOptionsMenu;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pAppOnCreateContextMenu;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pAppOnCreate;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pAppOnConfigurationChanged;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pAppOnClickOptionMenuItem;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pAppOnClickContextMenuItem;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pAppOnBackPressed;
+      Java_id_my_tauhidslab_antikman_antikman_Controls_pAppOnActivityResult;
+      JNI_OnUnload;
+    local:
+      *;
+  };
+}
+INPUT(
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl\dllprt0.o
+D:\Master\Android\android-ndk-r22b\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\lib\aarch64-linux-android\22\crtbegin_so.o
+D:\source-code-antikman\antikman\obj\controls\controls.o
+D:\source-code-antikman\antikman\obj\controls\controls.or
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl\system.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl\fpintres.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl\objpas.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl\classes.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl\sysutils.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\And_jni.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\And_jni_Bridge.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\androidwidget.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\Laz_And_Controls.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\laz_and_controls_events.o
+D:\source-code-antikman\antikman\obj\controls\ulogin.o
+D:\source-code-antikman\antikman\obj\controls\umain.o
+D:\source-code-antikman\antikman\obj\controls\udatauser.o
+D:\source-code-antikman\antikman\obj\controls\uuseractive.o
+D:\source-code-antikman\antikman\obj\controls\uadduser.o
+D:\source-code-antikman\antikman\obj\controls\ugenerateuser.o
+D:\source-code-antikman\antikman\obj\controls\udataprofile.o
+D:\source-code-antikman\antikman\obj\controls\uaddprofile.o
+D:\source-code-antikman\antikman\obj\controls\uexportuser.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl\types.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl\typinfo.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl\rtlconsts.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl\unix.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl\errors.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl\sysconst.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl\unixtype.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl\baseunix.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl\unixutil.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl\dl.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl\ctypes.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl\math.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-base\custapp.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-base\singleinstance.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\And_bitmap_h.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\paintshader.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\systryparent.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\commonparent.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\supportparent.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\customdialog.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\viewflipper.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\toolbar.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\radiogroup.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\framelayout.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\linearlayout.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\scoordinatorlayout.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\sdrawerlayout.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\scollapsingtoolbarlayout.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\scardview.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\sappbarlayout.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\stoolbar.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\stablayout.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\snestedscrollview.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\sviewpager.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\autocompletetextview.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\comboedittext.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\bluetooth.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\bluetoothclientsocket.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\bluetoothserversocket.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\spinner.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\location.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\actionbartab.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\togglebutton.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\switchbutton.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\gridview.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\sensormanager.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\broadcastreceiver.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\datepickerdialog.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\timepickerdialog.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\shellcommand.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\tcpsocketclient.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\surfaceview.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\mediaplayer.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\contactmanager.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\seekbar.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\ratingbar.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\drawingview.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\chronometer.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\numberpicker.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\udpsocket.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\opendialog.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\expandablelistview.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\gl2surfaceview.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\sfloatingbutton.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\snavigationview.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\srecyclerview.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\sbottomnavigationview.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\treelistview.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\customcamera.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\calendarview.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\searchview.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\telephonymanager.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\sadmob.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\zbarcodescannerview.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\cmikrotikrouteros.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\scontinuousscrollableimageview.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\midimanager.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\copenmapview.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\csignaturepad.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\soundpool.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\cmail.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\sftpclient.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\ftpclient.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\cbluetoothspp.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\selectdirectorydialog.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\mssqljdbcconnection.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\customspeechtotext.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\cbillingclient.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\ctoytimerservice.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\bluetoothlowenergy.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\sfirebasepushnotificationlistener.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\batterymanager.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\modbus.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\cwebsocketclient.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\ujsarduinoaflakserial.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\imagebutton.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\zcamview.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\webdav.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl-objpas\strutils.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl-objpas\dateutils.o
+D:\source-code-antikman\antikman\obj\controls\routerosapi.o
+blcksock.o
+synautil.o
+synsock.o
+synacode.o
+synafpc.o
+synaip.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl\dynlibs.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-base\syncobjs.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl\termio.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl-extra\sockets.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-net\netdb.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl\initc.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-net\cnetdb.o
+C:\fpcupdeluxe\ccr\lamw\android_bridges\lib\aarch64-android\intentmanager.o
+D:\source-code-antikman\antikman\obj\controls\libjpfpdf.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\paszlib\zstream.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-image\fpimage.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-image\fpreadpng.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-image\fpreadbmp.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-image\fpreadgif.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-image\fpwritejpeg.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-image\fpreadjpeg.o
+C:\fpcupdeluxe\lazarus\lcl\units\aarch64-android\lclproc.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\paszlib\zbase.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\paszlib\gzio.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\hash\crc.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\paszlib\zdeflate.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\paszlib\zinflate.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\paszlib\trees.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\paszlib\adler.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\paszlib\infblock.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\paszlib\infutil.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\paszlib\infcodes.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\paszlib\inftrees.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\paszlib\inffast.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-image\fpimgcmn.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-image\pngcomn.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-image\bmpcomn.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jpeglib.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jcapistd.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jcapimin.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jdatadst.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jcparam.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jerror.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jdeferr.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jmorecfg.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jdapimin.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jdatasrc.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jdapistd.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jinclude.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jmemmgr.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jdmarker.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jdinput.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jcomapi.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jutils.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jmemnobs.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jdmaster.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jdcolor.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jdsample.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jdpostct.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jddctmgr.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jdphuff.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jdhuff.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jdcoefct.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jdmainct.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jquant1.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jquant2.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jdmerge.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jdct.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jidctfst.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jidctint.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jidctflt.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jidctred.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jcinit.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jcmarker.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jcphuff.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jchuff.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jcmaster.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jccolor.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jcsample.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jcprepct.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jcdctmgr.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jccoefct.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jcmainct.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jfdctint.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jfdctfst.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\pasjpeg\jfdctflt.o
+C:\fpcupdeluxe\lazarus\components\lazutils\lib\aarch64-android\laz_avl_tree.o
+C:\fpcupdeluxe\lazarus\components\lazutils\lib\aarch64-android\lazfileutils.o
+C:\fpcupdeluxe\lazarus\components\lazutils\lib\aarch64-android\lazutilities.o
+C:\fpcupdeluxe\lazarus\components\lazutils\lib\aarch64-android\lazmethodlist.o
+C:\fpcupdeluxe\lazarus\components\lazutils\lib\aarch64-android\lazutf8.o
+C:\fpcupdeluxe\lazarus\components\lazutils\lib\aarch64-android\lazloggerbase.o
+C:\fpcupdeluxe\lazarus\components\lazutils\lib\aarch64-android\laztracer.o
+C:\fpcupdeluxe\lazarus\components\lazutils\lib\aarch64-android\graphmath.o
+C:\fpcupdeluxe\lazarus\lcl\units\aarch64-android\lclstrconsts.o
+C:\fpcupdeluxe\lazarus\lcl\units\aarch64-android\lcltype.o
+C:\fpcupdeluxe\lazarus\components\lazutils\lib\aarch64-android\lazutilsstrconsts.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl\cwstring.o
+C:\fpcupdeluxe\lazarus\components\lazutils\lib\aarch64-android\fpcadds.o
+C:\fpcupdeluxe\lazarus\components\lazutils\lib\aarch64-android\translations.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-json\jsonscanner.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-json\jsonparser.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-json\fpjson.o
+C:\fpcupdeluxe\lazarus\components\lazutils\lib\aarch64-android\fileutil.o
+C:\fpcupdeluxe\lazarus\components\lazutils\lib\aarch64-android\lconvencoding.o
+C:\fpcupdeluxe\lazarus\components\lazutils\lib\aarch64-android\avglvltree.o
+C:\fpcupdeluxe\lazarus\components\lazutils\lib\aarch64-android\stringhashlist.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-json\jsonreader.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl-objpas\variants.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\fcl-base\contnrs.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl-objpas\varutils.o
+C:\fpcupdeluxe\lazarus\components\lazutils\lib\aarch64-android\masks.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl\dos.o
+C:\fpcupdeluxe\lazarus\components\lazutils\lib\aarch64-android\codepagescommon.o
+C:\fpcupdeluxe\lazarus\components\lazutils\lib\aarch64-android\codepagesasian.o
+C:\fpcupdeluxe\fpc\units\aarch64-android\rtl\strings.o
+C:\fpcupdeluxe\lazarus\components\lazutils\lib\aarch64-android\lazclasses.o
+C:\fpcupdeluxe\lazarus\components\lazutils\lib\aarch64-android\lazdbglog.o
+)
+INPUT(
+-lc
+-llog
+-ldl
+-ljnigraphics
+)
+GROUP(
+-lc
+)
+INPUT(
+D:\Master\Android\android-ndk-r22b\toolchains\llvm\prebuilt\windows-x86_64\sysroot\usr\lib\aarch64-linux-android\22\crtend_so.o
+)
+SECTIONS
+{
+  .data           :
+  {
+    KEEP (*(.fpc .fpc.n_version .fpc.n_links))
+  }
+}
+INSERT AFTER .data1
+FPC_JNI_ON_LOAD = P$CONTROLS_$$_JNI_ONLOAD$PJAVAVM$POINTER$$LONGINT;
+FPC_LIB_MAIN_ANDROID = FPC_JNI_LIB_MAIN_ANDROID;

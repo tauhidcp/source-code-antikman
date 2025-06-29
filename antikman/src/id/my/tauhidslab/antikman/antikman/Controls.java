@@ -1546,10 +1546,6 @@ public  java.lang.Object jImageView_Create(long pasobj ) {
 }
 public native void pOnImageViewPopupItemSelected(long pasobj, String caption);
 
-public java.lang.Object jIntentManager_jCreate(long _Self) {
-   return (java.lang.Object)(new jIntentManager(this,_Self));
-}      
-
 public  java.lang.Object jListView_Create2(long pasobj,  int widget, String widgetTxt, Bitmap bmp, int txtDecorated, int itemLay, int textSizeDecorated, int textAlign, int textPosition) {
   return (java.lang.Object)(new jListView(this.activity,this,pasobj,widget,widgetTxt,bmp,txtDecorated,itemLay,textSizeDecorated, textAlign, textPosition));
 }

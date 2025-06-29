@@ -109,9 +109,4 @@ object MExportUser: TMExportUser
       GravityInParent = lgNone
     end
   end
-  object IntentManager1: jIntentManager
-    IntentAction = iaNone
-    Left = 104
-    Top = 240
-  end
 end

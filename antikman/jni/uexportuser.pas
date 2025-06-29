@@ -18,7 +18,6 @@ type
   TMExportUser = class(jForm)
     BExportPDF: jButton;
     BExportHTML: jButton;
-    IntentManager1: jIntentManager;
     PanelExport: jPanel;
     TextOut: jTextView;
     procedure BExportHTMLClick(Sender: TObject);
@@ -120,10 +119,6 @@ begin
     if SaveAsPDFFile(MMain.Res,Self.GetEnvironmentDirectoryPath(dirDownloads)+'/'+'hotspot_user.pdf') then
        begin
        TextOut.Text:='Success Export To PDF!'+sLineBreak+'Location : '+Self.GetEnvironmentDirectoryPath(dirDownloads)+'/'+'hotspot_user.pdf';
-       //IntentManager1.SetAction(iaView);
-      // IntentManager1.SetDataUri(GetUriFromFile(Self.GetEnvironmentDirectoryPath(dirDownloads)+'/'+'hotspot_user.pdf'));
-      // IntentManager1.SetMimeType('application/pdf');
-      // IntentManager1.StartActivity();
        end;
 end;
 
@@ -133,10 +128,6 @@ begin
    if SaveAsHTMLFile(MMain.Res,Self.GetEnvironmentDirectoryPath(dirDownloads)+'/'+'hotspot_user.html') then
        begin
        TextOut.Text:='Success Export To HTML!'+sLineBreak+'Location : '+Self.GetEnvironmentDirectoryPath(dirDownloads)+'/'+'hotspot_user.html';
-       //IntentManager1.SetAction(iaView);
-      // IntentManager1.SetDataUri(GetUriFromFile(Self.GetEnvironmentDirectoryPath(dirDownloads)+'/'+'hotspot_user.html'));
-      // IntentManager1.SetMimeType('text/html');
-      // IntentManager1.StartActivity();
        end;
 end;
 

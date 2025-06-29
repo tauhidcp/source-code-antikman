@@ -20,7 +20,7 @@
       <Item1 Name="KeepMyBuildGradleWhenReopen" Value="YES"/>
       <Item2 Name="LAMW" Value="GUI"/>
       <Item3 Name="LamwVersion" Value="0.8.6.4"/>
-      <Item4 Name="MinSdk" Value="21"/>
+      <Item4 Name="MinSdk" Value="23"/>
       <Item5 Name="NdkApi" Value="android-22"/>
       <Item6 Name="NdkPath" Value="D:\Master\Android\android-ndk-r22b\"/>
       <Item7 Name="Package" Value="id.my.tauhidslab.antikman.antikman"/>
@@ -141,7 +141,7 @@
         <HasResources Value="True"/>
         <CustomData Count="2">
           <Item0 Name="fclControls"/>
-          <Item1 Name="jControls" Value="jButton;jForm;jIntentManager;jPanel;jTextView"/>
+          <Item1 Name="jControls" Value="jButton;jForm;jPanel;jTextView"/>
         </CustomData>
       </Unit>
     </Units>
