@@ -6,12 +6,13 @@ Source Code Aplikasi Android Mikrotik Hotspot User Manajemen (AnTikMan) Mengguna
 - Mencetak User Hotspot ke dalam file PDF dan HTML
 
 ## Requirement
-- Lazarus IDE 3.6 + FPC 3.2.2 + Lazarus Android Module Wizard (LAMW) 0.8.6.4
+- Windows 11 64
+- **Lazarus 3.6 + Free Pascal (FPC) 3.2.2 + Lazaru Android Module Wizard (LAMW) 0.8.6.4** (dipasang menggunakan tools **fpcupdeluxe**)
 - Apache-ant-1.10.14
 - Gradle 8.5.0
-- Java 21 (Zulu)
-- Android NDK r22b 
-- Android SDK (android studio)
+- Java 21 (Zulu), set JAVA_HOME pada saat instalasi
+- Android NDK r22b (versi yang lebih tinggi perlu melakukan build toolchains secara mandiri)
+- Android SDK (diperoleh melalui android studio/install platform, platform tools dan build tools yang diperlukan setidaknya versi >=33 yang disyaratkan oleh Google Play Service)
 
 ## Tested
 - Xiaomi / Android 12 
